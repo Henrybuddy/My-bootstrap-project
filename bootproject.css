@@ -429,8 +429,8 @@ footer {
 }
 #myTabContent{
   width: fit-content;
-  margin-left:-1rem;
-}
+    margin-left: -1rem;
+  }
 #social2{
   width:auto;
 }
