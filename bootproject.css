@@ -340,6 +340,12 @@ footer {
   .c2 .card {
     margin: 0 !important;
   }
+  #find6 {
+    margin-bottom: 2rem;
+  }
+  .copyright1 {
+    margin-left: 10px;
+  }
   .social ul {
     flex-direction: row;
     flex-wrap: wrap !important;
@@ -356,6 +362,7 @@ footer {
   }
   #myTabContent {
     padding: 1rem;
+    margin-right: -3rem;
   }
   #myTabContent .col-md-3 {
     margin-left: 1rem !important;
@@ -400,13 +407,13 @@ footer {
   #fitness h5 {
     font-size: 12px;
   }
-  #work1{
+  #work1 {
     margin-left: auto;
   }
-  #work2{
+  #work2 {
     margin-left: auto;
   }
-  #work3{
+  #work3 {
     margin-left: 60px;
   }
   #evening {
@@ -422,28 +429,26 @@ footer {
     font-size: 12px;
   }
 }
-@media (max-width: 1440px){
-.social{
-  margin-left: -1rem;
-  
-}
-#myTabContent{
-  width: fit-content;
+@media (max-width: 1440px) {
+  #find6 {
+    margin-left: -1.5rem;
+  }
+  #myTabContent {
+    width: fit-content;
     margin-left: -1rem;
   }
-#social2{
-  width:auto;
-}
-#find2{
-  font-size: large;
-}
-#find3{
-  margin-left: -0.5rem;
-  font-size: large;
-}
-#find4{
-  margin-left: -0.5rem;
-  font-size: 17px;
-}
-
+  #social2 {
+    width: auto;
+  }
+  #find2 {
+    font-size: large;
+  }
+  #find3 {
+    margin-left: -0.5rem;
+    font-size: large;
+  }
+  #find4 {
+    margin-left: -0.5rem;
+    font-size: 17px;
+  }
 }
